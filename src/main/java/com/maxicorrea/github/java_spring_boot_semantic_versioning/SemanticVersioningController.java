@@ -15,7 +15,7 @@ public class SemanticVersioningController {
     }
     
     @GetMapping("/hello")
-    public String getHello() {
+    public String getHello() { 
         return "Hello";
     }
     
