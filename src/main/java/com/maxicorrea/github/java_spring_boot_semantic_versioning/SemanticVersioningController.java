@@ -10,7 +10,7 @@ public class SemanticVersioningController {
     
 
     @GetMapping("")
-    public String getCurrentVersion() {
+    public String getVersion() {
         return "Version 1.0.0";
     }
     
