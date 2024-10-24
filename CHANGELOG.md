@@ -1,3 +1,20 @@
+# [1.2.0](https://github.com/MaxiCorrea/java-spring-boot-semantic-versioning/compare/v1.1.0...v1.2.0) (2024-10-24)
+
+
+### Bug Fixes
+
+* Install dev ([92eaf35](https://github.com/MaxiCorrea/java-spring-boot-semantic-versioning/commit/92eaf35b25aeab5c6a9a3dec67ec9029e7955f09))
+* Install xml2js ([7d49e6c](https://github.com/MaxiCorrea/java-spring-boot-semantic-versioning/commit/7d49e6ca93085b14ca4222399e37c135490cf14c))
+* Update Workflow ([ee5b241](https://github.com/MaxiCorrea/java-spring-boot-semantic-versioning/commit/ee5b241f92e50524bddcb0ed78cfe132e2a199e1))
+* Update Workflow ([82e288f](https://github.com/MaxiCorrea/java-spring-boot-semantic-versioning/commit/82e288f7ac1781dd74be4a00fa623c62144df32f))
+* Update Workflow ([8c09592](https://github.com/MaxiCorrea/java-spring-boot-semantic-versioning/commit/8c095925b3f6faf43b51eaa262423408e90305b7))
+
+
+### Features
+
+* Added Script ([2b1af9a](https://github.com/MaxiCorrea/java-spring-boot-semantic-versioning/commit/2b1af9a23626aa543cca792135ee58580a70bc71))
+* Added Script ([1009d6f](https://github.com/MaxiCorrea/java-spring-boot-semantic-versioning/commit/1009d6f6128fc6359312b4073175afefc933d2ae))
+
 # [1.1.0](https://github.com/MaxiCorrea/java-spring-boot-semantic-versioning/compare/v1.0.1...v1.1.0) (2024-10-24)
 
 
