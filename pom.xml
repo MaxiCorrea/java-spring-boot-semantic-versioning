@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.maxicorrea.github</groupId>
 	<artifactId>java-spring-boot-semantic-versioning</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>java-spring-boot-semantic-versioning</name>
 	<description>Java Spring Boot Semantic Versioning</description>
 	<url/>
