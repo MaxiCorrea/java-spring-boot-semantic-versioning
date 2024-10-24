@@ -8,7 +8,6 @@ import org.springframework.web.bind.annotation.GetMapping;
 @RequestMapping("/version")
 public class SemanticVersioningController {
     
-
     @GetMapping("")
     public String getVersion() {
         return "Version 1.0.0";
@@ -16,7 +15,7 @@ public class SemanticVersioningController {
     
     @GetMapping("/hello")
     public String getHello() { 
-        return "Hello";
+        return "Hello Semantic Versioning";
     }
     
 }
