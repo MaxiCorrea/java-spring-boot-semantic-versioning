@@ -27,6 +27,7 @@ jobs:
         run: npm install
 
       - name: Run Semantic Release
+        run: npm install -g @semantic-release/exec
         run: npm run release
         env:
           GITHUB_TOKEN: ${{ secrets.DEPLOY_TOKEN }}
