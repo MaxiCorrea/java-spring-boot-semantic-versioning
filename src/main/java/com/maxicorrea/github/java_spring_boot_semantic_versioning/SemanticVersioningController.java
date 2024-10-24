@@ -14,4 +14,9 @@ public class SemanticVersioningController {
         return "Version 1.0.0";
     }
     
+    @GetMapping("/hello")
+    public String getHello() {
+        return "Hello";
+    }
+    
 }
