@@ -10,12 +10,7 @@ public class SemanticVersioningController {
     
     @GetMapping("")
     public String getVersion() {
-        return "Version 1.0.0";
+        return "Semantic Versioning";
     }
-    
-    @GetMapping("/hello")
-    public String getHello() { 
-        return "Hello Semantic Versioning";
-    }
-    
+        
 }
