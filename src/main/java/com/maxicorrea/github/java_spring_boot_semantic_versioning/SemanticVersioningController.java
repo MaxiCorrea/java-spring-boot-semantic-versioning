@@ -10,7 +10,7 @@ public class SemanticVersioningController {
     
     @GetMapping("")
     public String getVersion() {
-        return "Semantic Versioning";
+        return "Semantic Versioning"; 
     }
         
 }
