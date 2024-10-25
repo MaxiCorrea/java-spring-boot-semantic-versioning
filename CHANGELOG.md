@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/MaxiCorrea/java-spring-boot-semantic-versioning/compare/v1.2.0...v1.3.0) (2024-10-25)
+
+
+### Features
+
+* Query current time Feature ([22860a8](https://github.com/MaxiCorrea/java-spring-boot-semantic-versioning/commit/22860a8de4328ec63eb1502035efc9c03087a985))
+
 # [1.2.0](https://github.com/MaxiCorrea/java-spring-boot-semantic-versioning/compare/v1.1.0...v1.2.0) (2024-10-24)
 
 
