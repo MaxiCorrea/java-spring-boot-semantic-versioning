@@ -11,7 +11,7 @@ public class SemanticVersioningController {
     
     @GetMapping("/time")
     public String getMethodName() {
-        return String.valueOf(LocalDateTime.now());
+        return String.valueOf(LocalDateTime.now()); 
     }
     
 }
