@@ -1,3 +1,17 @@
+# [2.0.0](https://github.com/MaxiCorrea/java-spring-boot-semantic-versioning/compare/v1.3.0...v2.0.0) (2024-10-25)
+
+
+### Features
+
+* removed version endpoint ([4760897](https://github.com/MaxiCorrea/java-spring-boot-semantic-versioning/commit/476089700154dd1382d2f00569173ee5b0bcdd00))
+* removed version endpoint ([59b8348](https://github.com/MaxiCorrea/java-spring-boot-semantic-versioning/commit/59b8348131086e9fa726a4fdbe661070bd00f0ad))
+
+
+### BREAKING CHANGES
+
+* The core module API has changed, removing deprecated methods.
+* The core module API has changed, removing deprecated methods.
+
 # [1.3.0](https://github.com/MaxiCorrea/java-spring-boot-semantic-versioning/compare/v1.2.0...v1.3.0) (2024-10-25)
 
 
