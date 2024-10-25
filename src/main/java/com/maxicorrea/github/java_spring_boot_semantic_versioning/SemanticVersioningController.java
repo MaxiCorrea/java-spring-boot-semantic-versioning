@@ -9,11 +9,6 @@ import java.time.*;
 @RequestMapping("/version")
 public class SemanticVersioningController {
     
-    @GetMapping("")
-    public String getVersion() {
-        return "Semantic Versioning"; 
-    }
-
     @GetMapping("/time")
     public String getMethodName() {
         return String.valueOf(LocalDateTime.now());
